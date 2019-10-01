@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mvsk.mod.controller.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.773 s - in com.mvsk.mod.controller.UserControllerTest
